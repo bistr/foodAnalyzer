@@ -1,0 +1,6 @@
+server.port=4444
+buffer.size=1024
+api.url=https://api.nal.usda.gov/ndb/
+log.path=resources/log.txt
+cache.path=resources/cache.txt
+api.key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece

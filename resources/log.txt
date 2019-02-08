@@ -1,0 +1,1659 @@
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food-report 01009
+
+result:------
+NAME:	Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+------
+INGREDIENTS:
+------
+------
+NUTRIENTS:
+------
+Energy	403kcal
+Protein	22.87g
+Total lipid (fat)	33.31g
+Carbohydrate, by difference	3.37g
+Fiber, total dietary	0.0g
+/nEND
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45082701&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45323420&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45343436&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=12345&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food-report 01009
+
+result:------
+NAME:	Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+------
+INGREDIENTS:
+------
+------
+NUTRIENTS:
+------
+Energy	403kcal
+Protein	22.87g
+Total lipid (fat)	33.31g
+Carbohydrate, by difference	3.37g
+Fiber, total dietary	0.0g
+/nEND
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food-report 01009
+
+result:------
+NAME:	Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+------
+INGREDIENTS:
+------
+------
+NUTRIENTS:
+------
+Energy	403kcal
+Protein	22.87g
+Total lipid (fat)	33.31g
+Carbohydrate, by difference	3.37g
+Fiber, total dietary	0.0g
+
+END
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]}]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]}]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3eci
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3eco
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:561), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:383), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+An error occurred
+java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+[com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226), com.google.gson.Gson.fromJson(Gson.java:927), com.google.gson.Gson.fromJson(Gson.java:892), com.google.gson.Gson.fromJson(Gson.java:841), com.google.gson.Gson.fromJson(Gson.java:813), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:385), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]Sending request.
+An error occurred
+com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 2925 path $
+[com.google.gson.Gson.assertFullConsumption(Gson.java:903), com.google.gson.Gson.fromJson(Gson.java:893), com.google.gson.Gson.fromJson(Gson.java:841), server.Utilities.readCache(Utilities.java:105), server.CommandExecutionServer.start(CommandExecutionServer.java:162), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]Sending request.
+An error occurred
+com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 2925 path $
+[com.google.gson.Gson.assertFullConsumption(Gson.java:903), com.google.gson.Gson.fromJson(Gson.java:893), com.google.gson.Gson.fromJson(Gson.java:841), server.Utilities.readCache(Utilities.java:105), server.CommandExecutionServer.start(CommandExecutionServer.java:162), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:561), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:363), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:385), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+An error occurred
+java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+[com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226), com.google.gson.Gson.fromJson(Gson.java:927), com.google.gson.Gson.fromJson(Gson.java:892), com.google.gson.Gson.fromJson(Gson.java:841), com.google.gson.Gson.fromJson(Gson.java:813), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:387), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+[{"ndbno":"45061538","name":"FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"541"},{"name":"Protein","unit":"g","value":"5.41"},{"name":"Total lipid (fat)","unit":"g","value":"32.43"},{"name":"Carbohydrate, by difference","unit":"g","value":"62.16"},{"name":"Fiber, total dietary","unit":"g","value":"2.7"},{"name":"Sugars, total","unit":"g","value":"56.76"},{"name":"Calcium, Ca","unit":"mg","value":"108"},{"name":"Iron, Fe","unit":"mg","value":"1.95"},{"name":"Sodium, Na","unit":"mg","value":"41"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"10.810"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"14"}]},{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45081187","name":"NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124","manu":"","ing":{"desc":"NUTELLA: SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"519"},{"name":"Protein","unit":"g","value":"7.69"},{"name":"Total lipid (fat)","unit":"g","value":"26.92"},{"name":"Carbohydrate, by difference","unit":"g","value":"65.38"},{"name":"Fiber, total dietary","unit":"g","value":"3.8"},{"name":"Sugars, total","unit":"g","value":"44.23"},{"name":"Calcium, Ca","unit":"mg","value":"77"},{"name":"Iron, Fe","unit":"mg","value":"2.08"},{"name":"Sodium, Na","unit":"mg","value":"250"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"9.620"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"10"}]},{"ndbno":"45146122","name":"BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709","manu":"","ing":{"desc":"NUTELLA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY, SOY LECITHIN, VANILLIN), ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, ASCORBIC ACID ADDED AS A DOUGH CONDITIONER, THIAMINE MONONITRATE, RIBOFLAVIN, ENZYME, FOLIC ACID), MARGARINE (PALM OIL, WATER, CANOLA OIL, SUGAR, MONOGLYCERIDES, SOY LECITHIN, POTASSIUM SORBATE, CITRIC ACID, ARTIFICIAL FLAVOR, BETA CAROTENE, VITAMIN A VITAMIN D3), EGGS, DEXTROSE, SUGAR, FRUCTOSE, INVERT SUGAR, BROWN SUGAR, PALM OIL, SOYBEAN OIL, NATURAL FLAVOR, COCOA (PROCESSED WITH ALKALI), WATER, LEAVENING (CORN STARCH, SODIUM BICARBONATE, SODIUM ALUMINUM SULFATE, MONOCALCIUM PHOSPHATE), SALT, CITRUS FIBER, GUAR GUM, MODIFIED CORN STARCH, XANTHAN GUM"},"nutrients":[{"name":"Energy","unit":"kcal","value":"464"},{"name":"Protein","unit":"g","value":"7.14"},{"name":"Total lipid (fat)","unit":"g","value":"21.43"},{"name":"Carbohydrate, by difference","unit":"g","value":"64.29"},{"name":"Fiber, total dietary","unit":"g","value":"3.6"},{"name":"Sugars, total","unit":"g","value":"42.86"},{"name":"Calcium, Ca","unit":"mg","value":"71"},{"name":"Iron, Fe","unit":"mg","value":"2.57"},{"name":"Sodium, Na","unit":"mg","value":"250"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"8.930"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"36"}]},{"ndbno":"45179742","name":"BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609","manu":"","ing":{"desc":"SUGAR, NUTELLA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY, SOY LECITHIN, VANILLIN), ENRICHED BLEACHED FLOUR (WHEAT FLOUR, CHLORINE, NIACIN, BENZOYL PEROXIDE, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SOYBEAN AND/OR CANOLA OIL, EGGS, WATER, COCOA POWDER (ALKALIZED), INVERT SUGAR, SALT, ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"410"},{"name":"Protein","unit":"g","value":"5.13"},{"name":"Total lipid (fat)","unit":"g","value":"20.51"},{"name":"Carbohydrate, by difference","unit":"g","value":"53.85"},{"name":"Fiber, total dietary","unit":"g","value":"2.6"},{"name":"Sugars, total","unit":"g","value":"43.59"},{"name":"Calcium, Ca","unit":"mg","value":"51"},{"name":"Iron, Fe","unit":"mg","value":"0.92"},{"name":"Sodium, Na","unit":"mg","value":"192"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"3.850"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"51"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]},{"ndbno":"45099743","name":"FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"533"},{"name":"Protein","unit":"g","value":"6.67"},{"name":"Total lipid (fat)","unit":"g","value":"30.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"60.00"},{"name":"Fiber, total dietary","unit":"g","value":"3.3"},{"name":"Sugars, total","unit":"g","value":"56.67"},{"name":"Calcium, Ca","unit":"mg","value":"133"},{"name":"Iron, Fe","unit":"mg","value":"2.40"},{"name":"Sodium, Na","unit":"mg","value":"50"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"10.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"17"}]},{"ndbno":"45150576","name":"FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"HAZELNUT SPREAD WITH COCOA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR), WHEAT FLOUR, PALM OIL, BAKER\u0027S YEAST, MALT EXTRACT POWDER, LECITHIN AS EMULSIFIER (SOY), SALT, SKIM MILK, WHEAT PROTEINS, WHEY PROTEINS (MILK), ENZYMES."},"nutrients":[{"name":"Energy","unit":"kcal","value":"500"},{"name":"Protein","unit":"g","value":"9.09"},{"name":"Total lipid (fat)","unit":"g","value":"27.27"},{"name":"Carbohydrate, by difference","unit":"g","value":"63.64"},{"name":"Fiber, total dietary","unit":"g","value":"4.5"},{"name":"Sugars, total","unit":"g","value":"45.45"},{"name":"Calcium, Ca","unit":"mg","value":"91"},{"name":"Iron, Fe","unit":"mg","value":"1.64"},{"name":"Sodium, Na","unit":"mg","value":"182"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"9.090"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:561), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:363), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:385), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+An error occurred
+java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+[com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226), com.google.gson.Gson.fromJson(Gson.java:927), com.google.gson.Gson.fromJson(Gson.java:892), com.google.gson.Gson.fromJson(Gson.java:841), com.google.gson.Gson.fromJson(Gson.java:813), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:387), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:236), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:276), server.CommandExecutionServer.read(CommandExecutionServer.java:203), server.CommandExecutionServer.start(CommandExecutionServer.java:176), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+[{"ndbno":"45061538","name":"FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"541"},{"name":"Protein","unit":"g","value":"5.41"},{"name":"Total lipid (fat)","unit":"g","value":"32.43"},{"name":"Carbohydrate, by difference","unit":"g","value":"62.16"},{"name":"Fiber, total dietary","unit":"g","value":"2.7"},{"name":"Sugars, total","unit":"g","value":"56.76"},{"name":"Calcium, Ca","unit":"mg","value":"108"},{"name":"Iron, Fe","unit":"mg","value":"1.95"},{"name":"Sodium, Na","unit":"mg","value":"41"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"10.810"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"14"}]},{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45081187","name":"NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124","manu":"","ing":{"desc":"NUTELLA: SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"519"},{"name":"Protein","unit":"g","value":"7.69"},{"name":"Total lipid (fat)","unit":"g","value":"26.92"},{"name":"Carbohydrate, by difference","unit":"g","value":"65.38"},{"name":"Fiber, total dietary","unit":"g","value":"3.8"},{"name":"Sugars, total","unit":"g","value":"44.23"},{"name":"Calcium, Ca","unit":"mg","value":"77"},{"name":"Iron, Fe","unit":"mg","value":"2.08"},{"name":"Sodium, Na","unit":"mg","value":"250"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"9.620"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"10"}]},{"ndbno":"45146122","name":"BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709","manu":"","ing":{"desc":"NUTELLA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY, SOY LECITHIN, VANILLIN), ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, ASCORBIC ACID ADDED AS A DOUGH CONDITIONER, THIAMINE MONONITRATE, RIBOFLAVIN, ENZYME, FOLIC ACID), MARGARINE (PALM OIL, WATER, CANOLA OIL, SUGAR, MONOGLYCERIDES, SOY LECITHIN, POTASSIUM SORBATE, CITRIC ACID, ARTIFICIAL FLAVOR, BETA CAROTENE, VITAMIN A VITAMIN D3), EGGS, DEXTROSE, SUGAR, FRUCTOSE, INVERT SUGAR, BROWN SUGAR, PALM OIL, SOYBEAN OIL, NATURAL FLAVOR, COCOA (PROCESSED WITH ALKALI), WATER, LEAVENING (CORN STARCH, SODIUM BICARBONATE, SODIUM ALUMINUM SULFATE, MONOCALCIUM PHOSPHATE), SALT, CITRUS FIBER, GUAR GUM, MODIFIED CORN STARCH, XANTHAN GUM"},"nutrients":[{"name":"Energy","unit":"kcal","value":"464"},{"name":"Protein","unit":"g","value":"7.14"},{"name":"Total lipid (fat)","unit":"g","value":"21.43"},{"name":"Carbohydrate, by difference","unit":"g","value":"64.29"},{"name":"Fiber, total dietary","unit":"g","value":"3.6"},{"name":"Sugars, total","unit":"g","value":"42.86"},{"name":"Calcium, Ca","unit":"mg","value":"71"},{"name":"Iron, Fe","unit":"mg","value":"2.57"},{"name":"Sodium, Na","unit":"mg","value":"250"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"8.930"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"36"}]},{"ndbno":"45179742","name":"BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609","manu":"","ing":{"desc":"SUGAR, NUTELLA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY, SOY LECITHIN, VANILLIN), ENRICHED BLEACHED FLOUR (WHEAT FLOUR, CHLORINE, NIACIN, BENZOYL PEROXIDE, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SOYBEAN AND/OR CANOLA OIL, EGGS, WATER, COCOA POWDER (ALKALIZED), INVERT SUGAR, SALT, ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"410"},{"name":"Protein","unit":"g","value":"5.13"},{"name":"Total lipid (fat)","unit":"g","value":"20.51"},{"name":"Carbohydrate, by difference","unit":"g","value":"53.85"},{"name":"Fiber, total dietary","unit":"g","value":"2.6"},{"name":"Sugars, total","unit":"g","value":"43.59"},{"name":"Calcium, Ca","unit":"mg","value":"51"},{"name":"Iron, Fe","unit":"mg","value":"0.92"},{"name":"Sodium, Na","unit":"mg","value":"192"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"3.850"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"51"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]},{"ndbno":"45099743","name":"FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"533"},{"name":"Protein","unit":"g","value":"6.67"},{"name":"Total lipid (fat)","unit":"g","value":"30.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"60.00"},{"name":"Fiber, total dietary","unit":"g","value":"3.3"},{"name":"Sugars, total","unit":"g","value":"56.67"},{"name":"Calcium, Ca","unit":"mg","value":"133"},{"name":"Iron, Fe","unit":"mg","value":"2.40"},{"name":"Sodium, Na","unit":"mg","value":"50"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"10.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"17"}]},{"ndbno":"45150576","name":"FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"HAZELNUT SPREAD WITH COCOA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR), WHEAT FLOUR, PALM OIL, BAKER\u0027S YEAST, MALT EXTRACT POWDER, LECITHIN AS EMULSIFIER (SOY), SALT, SKIM MILK, WHEAT PROTEINS, WHEY PROTEINS (MILK), ENZYMES."},"nutrients":[{"name":"Energy","unit":"kcal","value":"500"},{"name":"Protein","unit":"g","value":"9.09"},{"name":"Total lipid (fat)","unit":"g","value":"27.27"},{"name":"Carbohydrate, by difference","unit":"g","value":"63.64"},{"name":"Fiber, total dietary","unit":"g","value":"4.5"},{"name":"Sugars, total","unit":"g","value":"45.45"},{"name":"Calcium, Ca","unit":"mg","value":"91"},{"name":"Iron, Fe","unit":"mg","value":"1.64"},{"name":"Sodium, Na","unit":"mg","value":"182"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"9.090"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+[{"ndbno":"45061538","name":"FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"541"},{"name":"Protein","unit":"g","value":"5.41"},{"name":"Total lipid (fat)","unit":"g","value":"32.43"},{"name":"Carbohydrate, by difference","unit":"g","value":"62.16"},{"name":"Fiber, total dietary","unit":"g","value":"2.7"},{"name":"Sugars, total","unit":"g","value":"56.76"},{"name":"Calcium, Ca","unit":"mg","value":"108"},{"name":"Iron, Fe","unit":"mg","value":"1.95"},{"name":"Sodium, Na","unit":"mg","value":"41"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"10.810"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"14"}]},{"ndbno":"01009","name":"Cheese, cheddar (Includes foods for USDA\u0027s Food Distribution Program)","manu":"","nutrients":[{"name":"Water","unit":"g","value":"36.75"},{"name":"Energy","unit":"kcal","value":"403"},{"name":"Protein","unit":"g","value":"22.87"},{"name":"Total lipid (fat)","unit":"g","value":"33.31"},{"name":"Carbohydrate, by difference","unit":"g","value":"3.37"},{"name":"Fiber, total dietary","unit":"g","value":"0.0"},{"name":"Sugars, total","unit":"g","value":"0.48"},{"name":"Calcium, Ca","unit":"mg","value":"710"},{"name":"Iron, Fe","unit":"mg","value":"0.14"},{"name":"Magnesium, Mg","unit":"mg","value":"27"},{"name":"Phosphorus, P","unit":"mg","value":"455"},{"name":"Potassium, K","unit":"mg","value":"76"},{"name":"Sodium, Na","unit":"mg","value":"653"},{"name":"Zinc, Zn","unit":"mg","value":"3.64"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Thiamin","unit":"mg","value":"0.029"},{"name":"Riboflavin","unit":"mg","value":"0.428"},{"name":"Niacin","unit":"mg","value":"0.059"},{"name":"Vitamin B-6","unit":"mg","value":"0.066"},{"name":"Folate, DFE","unit":"µg","value":"27"},{"name":"Vitamin B-12","unit":"µg","value":"1.10"},{"name":"Vitamin A, RAE","unit":"µg","value":"337"},{"name":"Vitamin A, IU","unit":"IU","value":"1242"},{"name":"Vitamin E (alpha-tocopherol)","unit":"mg","value":"0.71"},{"name":"Vitamin D (D2 + D3)","unit":"µg","value":"0.6"},{"name":"Vitamin D","unit":"IU","value":"24"},{"name":"Vitamin K (phylloquinone)","unit":"µg","value":"2.4"},{"name":"Fatty acids, total saturated","unit":"g","value":"18.867"},{"name":"Fatty acids, total monounsaturated","unit":"g","value":"9.391"},{"name":"Fatty acids, total polyunsaturated","unit":"g","value":"0.942"},{"name":"Cholesterol","unit":"mg","value":"99"},{"name":"Caffeine","unit":"mg","value":"0"}]},{"ndbno":"45081187","name":"NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124","manu":"","ing":{"desc":"NUTELLA: SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"519"},{"name":"Protein","unit":"g","value":"7.69"},{"name":"Total lipid (fat)","unit":"g","value":"26.92"},{"name":"Carbohydrate, by difference","unit":"g","value":"65.38"},{"name":"Fiber, total dietary","unit":"g","value":"3.8"},{"name":"Sugars, total","unit":"g","value":"44.23"},{"name":"Calcium, Ca","unit":"mg","value":"77"},{"name":"Iron, Fe","unit":"mg","value":"2.08"},{"name":"Sodium, Na","unit":"mg","value":"250"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"9.620"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"10"}]},{"ndbno":"45146122","name":"BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709","manu":"","ing":{"desc":"NUTELLA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY, SOY LECITHIN, VANILLIN), ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, ASCORBIC ACID ADDED AS A DOUGH CONDITIONER, THIAMINE MONONITRATE, RIBOFLAVIN, ENZYME, FOLIC ACID), MARGARINE (PALM OIL, WATER, CANOLA OIL, SUGAR, MONOGLYCERIDES, SOY LECITHIN, POTASSIUM SORBATE, CITRIC ACID, ARTIFICIAL FLAVOR, BETA CAROTENE, VITAMIN A VITAMIN D3), EGGS, DEXTROSE, SUGAR, FRUCTOSE, INVERT SUGAR, BROWN SUGAR, PALM OIL, SOYBEAN OIL, NATURAL FLAVOR, COCOA (PROCESSED WITH ALKALI), WATER, LEAVENING (CORN STARCH, SODIUM BICARBONATE, SODIUM ALUMINUM SULFATE, MONOCALCIUM PHOSPHATE), SALT, CITRUS FIBER, GUAR GUM, MODIFIED CORN STARCH, XANTHAN GUM"},"nutrients":[{"name":"Energy","unit":"kcal","value":"464"},{"name":"Protein","unit":"g","value":"7.14"},{"name":"Total lipid (fat)","unit":"g","value":"21.43"},{"name":"Carbohydrate, by difference","unit":"g","value":"64.29"},{"name":"Fiber, total dietary","unit":"g","value":"3.6"},{"name":"Sugars, total","unit":"g","value":"42.86"},{"name":"Calcium, Ca","unit":"mg","value":"71"},{"name":"Iron, Fe","unit":"mg","value":"2.57"},{"name":"Sodium, Na","unit":"mg","value":"250"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"8.930"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"36"}]},{"ndbno":"45179742","name":"BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609","manu":"","ing":{"desc":"SUGAR, NUTELLA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY, SOY LECITHIN, VANILLIN), ENRICHED BLEACHED FLOUR (WHEAT FLOUR, CHLORINE, NIACIN, BENZOYL PEROXIDE, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SOYBEAN AND/OR CANOLA OIL, EGGS, WATER, COCOA POWDER (ALKALIZED), INVERT SUGAR, SALT, ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"410"},{"name":"Protein","unit":"g","value":"5.13"},{"name":"Total lipid (fat)","unit":"g","value":"20.51"},{"name":"Carbohydrate, by difference","unit":"g","value":"53.85"},{"name":"Fiber, total dietary","unit":"g","value":"2.6"},{"name":"Sugars, total","unit":"g","value":"43.59"},{"name":"Calcium, Ca","unit":"mg","value":"51"},{"name":"Iron, Fe","unit":"mg","value":"0.92"},{"name":"Sodium, Na","unit":"mg","value":"192"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"3.850"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"51"}]},{"ndbno":"45202765","name":"SALSA, UPC: 852083005041","manu":"","ing":{"desc":"TOMATOES, TOMATO JUICE, WATER, TOMATO PASTE, CILANTRO, HABANERO PEPPERS, ONION, CANE SUGAR, SPICE, CHILI POWDER (CHILI PEPPER, GARLIC, SPICES), LIME JUICE CONCENTRATE, GARLIC POWDER, ONION POWDER, SALT, CALCIUM CHLORIDE, CITRIC ACID."},"nutrients":[{"name":"Energy","unit":"kcal","value":"48"},{"name":"Protein","unit":"g","value":"0.00"},{"name":"Total lipid (fat)","unit":"g","value":"0.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"9.68"},{"name":"Fiber, total dietary","unit":"g","value":"3.2"},{"name":"Sugars, total","unit":"g","value":"6.45"},{"name":"Calcium, Ca","unit":"mg","value":"65"},{"name":"Iron, Fe","unit":"mg","value":"1.16"},{"name":"Sodium, Na","unit":"mg","value":"65"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"3.9"},{"name":"Vitamin A, IU","unit":"IU","value":"968"},{"name":"Fatty acids, total saturated","unit":"g","value":"0.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]},{"ndbno":"45099743","name":"FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR."},"nutrients":[{"name":"Energy","unit":"kcal","value":"533"},{"name":"Protein","unit":"g","value":"6.67"},{"name":"Total lipid (fat)","unit":"g","value":"30.00"},{"name":"Carbohydrate, by difference","unit":"g","value":"60.00"},{"name":"Fiber, total dietary","unit":"g","value":"3.3"},{"name":"Sugars, total","unit":"g","value":"56.67"},{"name":"Calcium, Ca","unit":"mg","value":"133"},{"name":"Iron, Fe","unit":"mg","value":"2.40"},{"name":"Sodium, Na","unit":"mg","value":"50"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"10.000"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"17"}]},{"ndbno":"45150576","name":"FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106","manu":"Ferrero U.S.A., Incorporated","ing":{"desc":"HAZELNUT SPREAD WITH COCOA (SUGAR, PALM OIL, HAZELNUTS, COCOA, SKIM MILK, WHEY (MILK), LECITHIN AS EMULSIFIER (SOY), VANILLIN: AN ARTIFICIAL FLAVOR), WHEAT FLOUR, PALM OIL, BAKER\u0027S YEAST, MALT EXTRACT POWDER, LECITHIN AS EMULSIFIER (SOY), SALT, SKIM MILK, WHEAT PROTEINS, WHEY PROTEINS (MILK), ENZYMES."},"nutrients":[{"name":"Energy","unit":"kcal","value":"500"},{"name":"Protein","unit":"g","value":"9.09"},{"name":"Total lipid (fat)","unit":"g","value":"27.27"},{"name":"Carbohydrate, by difference","unit":"g","value":"63.64"},{"name":"Fiber, total dietary","unit":"g","value":"4.5"},{"name":"Sugars, total","unit":"g","value":"45.45"},{"name":"Calcium, Ca","unit":"mg","value":"91"},{"name":"Iron, Fe","unit":"mg","value":"1.64"},{"name":"Sodium, Na","unit":"mg","value":"182"},{"name":"Vitamin C, total ascorbic acid","unit":"mg","value":"0.0"},{"name":"Vitamin A, IU","unit":"IU","value":"0"},{"name":"Fatty acids, total saturated","unit":"g","value":"9.090"},{"name":"Fatty acids, total trans","unit":"g","value":"0.000"},{"name":"Cholesterol","unit":"mg","value":"0"}]}]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=ferrero&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45041730&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45041505&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141299&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141288&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141283&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141281&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141278&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141276&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141272&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141264&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141261&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141251&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45089649&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141248&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141246&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45047495&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45141242&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45001846&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45205079&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45205062&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45205042&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45205034&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45156105&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45228739&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45205078&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45205076&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food ferrero
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800120949
+------
+NDBNO:	45041730
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800120314
+------
+NDBNO:	45041505
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200337
+------
+NDBNO:	45141299
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200375
+------
+NDBNO:	45141288
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200603
+------
+NDBNO:	45141283
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, HAZELNUT CHOCOLATES, UPC: 009800123018
+------
+NDBNO:	45141281
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200382
+------
+NDBNO:	45141278
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONGECTIONS, UPC: 009800200405
+------
+NDBNO:	45141276
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200344
+------
+NDBNO:	45141272
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200580
+------
+NDBNO:	45141264
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800124015
+------
+NDBNO:	45141261
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200313
+------
+NDBNO:	45141251
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800126132
+------
+NDBNO:	45089649
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200276
+------
+NDBNO:	45141248
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800120475
+------
+NDBNO:	45141246
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800126071
+------
+NDBNO:	45047495
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, FINE HAZELNUT CHOCOLATES, UPC: 009800120338
+------
+NDBNO:	45141242
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200252
+------
+NDBNO:	45001846
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200443
+------
+NDBNO:	45205079
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200498
+------
+NDBNO:	45205062
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200467
+------
+NDBNO:	45205042
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200504
+------
+NDBNO:	45205034
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTION, UPC: 009800600236
+------
+NDBNO:	45156105
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO ROCHER, WHOLE HAZELNUT IN MILK CHOCOLATE AND NUT CROQUANTE, UPC: 8000500003787
+------
+NDBNO:	45228739
+------
+MANUFACTURER:	Diversion Technologies, Inc.
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONFECTIONS, UPC: 009800200450
+------
+NDBNO:	45205078
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO COLLECTION, FINE ASSORTED CONEFECTIONS, UPC: 009800200535
+------
+NDBNO:	45205076
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=pepper+olives&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45020982&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45285725&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45309284&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45174873&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45176859&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45059087&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45174194&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45287743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45276660&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45325323&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45084953&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45015903&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45015895&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45369137&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45169910&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45201678&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45233734&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45223886&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45268243&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45375325&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45375692&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45376008&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45376356&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45237190&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45204044&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45008844&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45282423&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45269339&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45239366&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45358483&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45104235&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45192366&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45084441&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45096631&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45192409&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45277610&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45029504&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45271398&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45176866&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45176864&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45118535&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45163197&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45034452&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45170184&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45327939&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45241872&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45094375&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45241339&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45174313&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45079174&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45192143&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45266363&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45189511&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45006544&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45019202&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45243201&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45089548&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45266361&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45048131&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45056942&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45174076&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45328654&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45291186&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food pepper olives
+
+result:------
+NAME:	MUSCO FAMILY OLIVE CO., PEARLS, CALIFORNIA GROWN SPECIALTIES HERBS & SWEET PEPPER OLIVES, UPC: 072999171030
+------
+NDBNO:	45020982
+------
+MANUFACTURER:	Musco Olive Products, Inc.
+------
+NAME:	BLACK PEPPER & OLIVE OIL, UPC: 793573720948
+------
+NDBNO:	45285725
+------
+MANUFACTURER:	none
+------
+NAME:	NABISCO, TRISCUIT, CRACKERS, CRACKED PEPPER & OLIVE OIL, UPC: 044000027971
+------
+NDBNO:	45309284
+------
+MANUFACTURER:	Nabisco Biscuit Company
+------
+NAME:	J. HIGGS, WOVEN WHEATS CRACKERS, CRACKED PEPPER & OLIVE OIL, UPC: 051933347618
+------
+NDBNO:	45174873
+------
+MANUFACTURER:	The Moran Group Incorporated
+------
+NAME:	LAURA LYNN, HEARTY WHEAT CRACKERS, CRACKED PEPPER & OLIVE OIL, UPC: 086854063248
+------
+NDBNO:	45176859
+------
+MANUFACTURER:	Ingles Markets Inc.
+------
+NAME:	MARINATED ROASTED PEPPERS OLIVE OIL & GARLIC, UPC: 009300004817
+------
+NDBNO:	45059087
+------
+MANUFACTURER:	Mount Olive Pickle Company Inc.
+------
+NAME:	PRICE CHOPPER, BAKED WHEAT WAFERS, CRACKED PEPPER & OLIVE OIL, UPC: 041735088079
+------
+NDBNO:	45174194
+------
+MANUFACTURER:	Price Chopper Supermarkets
+------
+NAME:	RED PEPPER STUFFED OLIVES, UPC: 758940625103
+------
+NDBNO:	45287743
+------
+MANUFACTURER:	none
+------
+NAME:	SKINLESS BONELESS SARDINES WITH RED PEPPERS IN OLIVE OIL, UPC: 086600429205
+------
+NDBNO:	45276660
+------
+MANUFACTURER:	BUMBLE BEE FOODS, LLC
+------
+NAME:	ROASTED RED & YELLOW PEPPERS IN OLIVE OIL WITH GARLIC, UPC: 072368107783
+------
+NDBNO:	45325323
+------
+MANUFACTURER:	GEORGE DELALLO CO., INC.
+------
+NAME:	ROASTED RED PEPPERS IN OLIVE OIL WITH GARLIC, UPC: 072368107516
+------
+NDBNO:	45084953
+------
+MANUFACTURER:	GEORGE DELALLO CO., INC.
+------
+NAME:	VICTORIA, ANTIPASTO PEPPERS WITH OLIVE OIL & VINEGAR, UPC: 070234000237
+------
+NDBNO:	45015903
+------
+MANUFACTURER:	Victoria Fine Foods LLC
+------
+NAME:	VICTORIA, STUFFED HOT PEPPERS WITH OLIVE OIL, HOT, UPC: 070234000930
+------
+NDBNO:	45015895
+------
+MANUFACTURER:	Victoria Fine Foods LLC
+------
+NAME:	WHEAT THINS CRACKERS CRACKED PEPPER AND OLIVE OIL 1X9.000 OZ, UNPREPARED, GTIN: 00044000051211
+------
+NDBNO:	45369137
+------
+MANUFACTURER:	Mondelez Int. US (0074819091009)
+------
+NAME:	ALBICE, ROASTED RED PEPPERS, SWEET OLIVES, UPC: 858933005025
+------
+NDBNO:	45169910
+------
+MANUFACTURER:	GBA Foods, Inc.
+------
+NAME:	TUNA FILLETS WITH LEMON & PEPPER IN OLIVE OIL, UPC: 813958009496
+------
+NDBNO:	45201678
+------
+MANUFACTURER:	TONNINO
+------
+NAME:	MEDITERRA, SAVORY BAR, BELL PEPPERS & GREEN OLIVES, UPC: 853335000357
+------
+NDBNO:	45233734
+------
+MANUFACTURER:	The Shepherd Company
+------
+NAME:	ORGANIC RED PEPPER STUFFED OLIVES, UPC: 099482461102
+------
+NDBNO:	45223886
+------
+MANUFACTURER:	Whole Foods Market, Inc.
+------
+NAME:	RED PEPPER STUFFED OLIVES, UPC: 758940600766
+------
+NDBNO:	45268243
+------
+MANUFACTURER:	Fairway Operating Corp.
+------
+NAME:	NABISCO TRISCUIT CRACKERS CRACKED PEPPER AND OLIVE OIL 1X9 OZ, UNPREPARED, GTIN: 00044000027971
+------
+NDBNO:	45375325
+------
+MANUFACTURER:	Mondelez Int. US (0074819091009)
+------
+NAME:	TRISCUIT CRACKERS CRACKED PEPPER AND OLIVE OIL 1X12.5 OZ, UNPREPARED, GTIN: 00044000051716
+------
+NDBNO:	45375692
+------
+MANUFACTURER:	Mondelez Int. US (0074819091009)
+------
+NAME:	NABISCO TRISCUIT CRACKERS CRACKED PEPPER AND OLIVE OIL 1X13.000 OZ, UNPREPARED, GTIN: 00044000037123
+------
+NDBNO:	45376008
+------
+MANUFACTURER:	Mondelez Int. US (0074819091009)
+------
+NAME:	TRISCUIT CRACKERS CRACKED PEPPER AND OLIVE OIL 1X8.5 OZ, UNPREPARED, GTIN: 00044000050993
+------
+NDBNO:	45376356
+------
+MANUFACTURER:	Mondelez Int. US (0074819091009)
+------
+NAME:	HOT PEPPER STUFFED SPANISH OLIVES, UPC: 076606115639
+------
+NDBNO:	45237190
+------
+MANUFACTURER:	Haddon House Food Products Inc
+------
+NAME:	CHILI PEPPER STUFFED GORDAL OLIVES, UPC: 8413636201017
+------
+NDBNO:	45204044
+------
+MANUFACTURER:	none
+------
+NAME:	SHOP RITE, RISING CRUST PIZZA SUPREME WITH SAUSAGE, PEPPERONI, PEPPERS, ONIONS & BLACK OLIVES, UPC: 041190406470
+------
+NDBNO:	45008844
+------
+MANUFACTURER:	WAKEFERN FOOD CORPORATION
+------
+NAME:	SUPREME PIZZA, SAUSAGE, PEPPERONI, RED & GREEN PEPPERS, ONIONS, BLACK OLIVES, UPC: 092825093602
+------
+NDBNO:	45282423
+------
+MANUFACTURER:	Brookshire Grocery Company
+------
+NAME:	TEX MEX CORN & MUKIMAME WITH PEPPERS, BLACK BEANS, OLIVE OIL, AND SEA SALY, UPC: 855229005561
+------
+NDBNO:	45269339
+------
+MANUFACTURER:	Harvest Food Group, Inc.
+------
+NAME:	LE FERRE, EXTRA VIRGIN OLIVE OIL WITH HOT PEPPER, HOT PEPPER, UPC: 780961253065
+------
+NDBNO:	45239366
+------
+MANUFACTURER:	ISOLA IMPORTS, INC.
+------
+NAME:	ITALIAN SPICED BLEND OLIVES WITH PEPPERS & HERBS, UPC: 04656796079
+------
+NDBNO:	45358483
+------
+MANUFACTURER:	RALEY'S
+------
+NAME:	GIL'S GOURMET, GARLIC PEPPER JACK CHEESE STUFFED OLIVES, UPC: 736385813859
+------
+NDBNO:	45104235
+------
+MANUFACTURER:	Gil's Gourmet Gallery
+------
+NAME:	TAZAH, GREEN CRACKED OLIVES WITH PEPPER, UPC: 738960242146
+------
+NDBNO:	45192366
+------
+MANUFACTURER:	Karabetian Import & Export
+------
+NAME:	BELA, LIGHTLY SMOKED PORTUGUESE SARDINES IN CAYENNE PEPPER FLAVORED EXTRACT VIRGIN OLIVE OIL, UPC: 633600502331
+------
+NDBNO:	45084441
+------
+MANUFACTURER:	none
+------
+NAME:	S&B, GARLIC,OLIVE OIL & CHILI PEPPER SPAGHETTI SAUCE, UPC: 074880068733
+------
+NDBNO:	45096631
+------
+MANUFACTURER:	S & B Shokuhin Company Ltd
+------
+NAME:	CRACKED GREEN OLIVES WITH CHILI PEPPERS, UPC: 746646303760
+------
+NDBNO:	45192409
+------
+MANUFACTURER:	Overseas Food Dist Inc.
+------
+NAME:	ROASTED PEPPER STUFFED CALIFORNIA BLACK RIPE OLIVES, UPC: 072999802033
+------
+NDBNO:	45277610
+------
+MANUFACTURER:	Musco Olive Products, Inc.
+------
+NAME:	DELALLO, SALAD SAVORS, SALAD TOPPING, FETA CHEESE, PITTED CALAMATA OLIVES, SWEET RED PEPPERS, UPC: 072368173702
+------
+NDBNO:	45029504
+------
+MANUFACTURER:	GEORGE DELALLO CO., INC.
+------
+NAME:	GREEK ISLANDS MEDLEY OLIVES, FETA, & ROASTED PEPPERS, UPC: 814985002320
+------
+NDBNO:	45271398
+------
+MANUFACTURER:	United Natural Foods, Inc.
+------
+NAME:	SANTA BARBARA OLIVE CO., RED PEPPER AND ARTICHOKE TAPENADE, UPC: 089156862779
+------
+NDBNO:	45176866
+------
+MANUFACTURER:	Krinos Foods Inc.
+------
+NAME:	SANTA BARBARA OLIVE CO., RED PEPPER TAPENADE, UPC: 089156862762
+------
+NDBNO:	45176864
+------
+MANUFACTURER:	Krinos Foods Inc.
+------
+NAME:	MT. OLIVE, DICED JALAPENO PEPPERS, UPC: 009300004077
+------
+NDBNO:	45118535
+------
+MANUFACTURER:	Mount Olive Pickle Company Inc.
+------
+NAME:	MONINI, EXTRA VIRGIN OLIVE OIL WITH FOUR PEPPERS, UPC: 080441000555
+------
+NDBNO:	45163197
+------
+MANUFACTURER:	Monini S.P.A.
+------
+NAME:	DIVINA, OLIVES STUFFED WITH JALAPENO PEPPERS, UPC: 631723202756
+------
+NDBNO:	45034452
+------
+MANUFACTURER:	Food Match, Inc.
+------
+NAME:	SWEETWATER GROWERS, GOURMET INFUSED EXTRA VIRGIN OLIVE OIL, GARLIC, RED PEPPER, UPC: 887295004988
+------
+NDBNO:	45170184
+------
+MANUFACTURER:	Sweeva Corporation Inc.
+------
+NAME:	FROLLICKS CRNCHY BEAN SEED MIX OLIVE OIL CRACKED BLACK PEPPER, UNPREPARED, GTIN: 00016000489325
+------
+NDBNO:	45327939
+------
+MANUFACTURER:	GENERAL MILLS SALES INC.
+------
+NAME:	BASSO, EXTRA VIRGIN OLIVE OIL WITH CHILI PEPPER DRESSING, UPC: 049248012277
+------
+NDBNO:	45241872
+------
+MANUFACTURER:	Basso Fedele & Figli Srl
+------
+NAME:	LA MEDINA, OLIVES STUFFED WITH RED PEPPERS, UPC: 687250543787
+------
+NDBNO:	45094375
+------
+MANUFACTURER:	Food Match, Inc.
+------
+NAME:	ANGELO PARODI, SARDINES IN OLIVE OIL WITH CHILI PEPPERS, UPC: 707684103033
+------
+NDBNO:	45241339
+------
+MANUFACTURER:	none
+------
+NAME:	ZERGUT, OLIVE TAPENADE WITH ROASTED PEPPERS, UPC: 043717126403
+------
+NDBNO:	45174313
+------
+MANUFACTURER:	Indo-European Foods Inc
+------
+NAME:	OLIVES STUFFED WITH SWEET PEPPERS, UPC: 631723202787
+------
+NDBNO:	45079174
+------
+MANUFACTURER:	Food Match, Inc.
+------
+NAME:	PITTED CASTELVETRANO OLIVES WITH SLICED RED PEPPERS, UPC: 691430004197
+------
+NDBNO:	45192143
+------
+MANUFACTURER:	International Marketing Systems, Inc.
+------
+NAME:	PARTY PICKS MANZANILLA OLIVES STUFFED WITH RED PEPPER, UPC: 053800410012
+------
+NDBNO:	45266363
+------
+MANUFACTURER:	BELL-CARTER FOODS, INC.
+------
+NAME:	SILVER LEAF, EXTRA VIRGIN OLIVE OIL WITH GHOST PEPPERS, UPC: 856646000092
+------
+NDBNO:	45189511
+------
+MANUFACTURER:	Silverleaf International Corporation
+------
+NAME:	MT. OLIVE, SWEET 'N' HOT SALAD PEPPERS, UPC: 000309444901
+------
+NDBNO:	45006544
+------
+MANUFACTURER:	Walton's Flies
+------
+NAME:	KING OSCAR, SARDINES IN EXTRA VIRGIN OLIVE OIL WITH SPICY CRACKED PEPPER, SPICY, UPC: 034800006559
+------
+NDBNO:	45019202
+------
+MANUFACTURER:	King Oscar, Inc.
+------
+NAME:	COLAVITA, PEPPEROLIO, EXTRA VIRGIN OLIVE OIL WITH ESSENCE OF PEPPER, UPC: 039153100145
+------
+NDBNO:	45243201
+------
+MANUFACTURER:	Colavita USA, LLC
+------
+NAME:	QUEEN OLIVES STUFFED WITH REAL RED PEPPER, UPC: 053800952017
+------
+NDBNO:	45089548
+------
+MANUFACTURER:	BELL-CARTER FOODS, INC.
+------
+NAME:	SPANISH QUEEN OLIVES STUFFED WITH REAL RED PEPPER, UPC: 053800410005
+------
+NDBNO:	45266361
+------
+MANUFACTURER:	BELL-CARTER FOODS, INC.
+------
+NAME:	GOOD HEALTH, OLIVE OIL KETTLE CHIPS, CRACKED PEPPER & SEA SALT, UPC: 755355101130
+------
+NDBNO:	45048131
+------
+MANUFACTURER:	Good Health Natural Products Inc.
+------
+NAME:	OLIVES STUFFED WITH NATURAL RED PEPPER, UPC: 632930413874
+------
+NDBNO:	45056942
+------
+MANUFACTURER:	none
+------
+NAME:	PUBLIX DELI, BLACK BEAN HUMMUS, OLIVE OIL AND ROASTED RED PEPPERS, UPC: 041415450622
+------
+NDBNO:	45174076
+------
+MANUFACTURER:	PUBLIX SUPER MARKETS, INC.
+------
+NAME:	PITTED SNACK OLIVES WITH A HINT OF SAVORY PEPPER, UPC: 073651116239
+------
+NDBNO:	45328654
+------
+MANUFACTURER:	Mario Camacho Foods LLC
+------
+NAME:	OLIVE SNACK MARINATED WITH CHILLI & BLACK PEPPER, UPC: 607959700502
+------
+NDBNO:	45291186
+------
+MANUFACTURER:	none
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45082701&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45323420&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45343436&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=12345&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.multipleWordSearchTest(ServerTest.java:68), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.displayFoodTest(ServerTest.java:129), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.getByImagePathTest(ServerTest.java:115), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.getFoodByNDBNOTest(ServerTest.java:37), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.addToCacheTest(ServerTest.java:81), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.getFoodListWithout(CommandExecutionServer.java:406), ServerTest.getFoodWithoutTest(ServerTest.java:57), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.getFoodListTest(ServerTest.java:47), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.multipleWordSearchTest(ServerTest.java:68), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.displayFoodTest(ServerTest.java:129), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.getByImagePathTest(ServerTest.java:115), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.getFoodByNDBNOTest(ServerTest.java:37), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.addToCacheTest(ServerTest.java:81), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.getFoodListWithout(CommandExecutionServer.java:406), ServerTest.getFoodWithoutTest(ServerTest.java:57), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.getFoodListTest(ServerTest.java:47), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.multipleWordSearchTest(ServerTest.java:68), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.displayFoodTest(ServerTest.java:129), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.getByImagePathTest(ServerTest.java:115), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.getFoodByNDBNOTest(ServerTest.java:37), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), ServerTest.addToCacheTest(ServerTest.java:81), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.getFoodListWithout(CommandExecutionServer.java:406), ServerTest.getFoodWithoutTest(ServerTest.java:57), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), ServerTest.getFoodListTest(ServerTest.java:47), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79), org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85), org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39), org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:565), java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:119), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:361), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:397), server.CommandExecutionServer.displayFoodReport(CommandExecutionServer.java:232), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:274), server.CommandExecutionServer.read(CommandExecutionServer.java:204), server.CommandExecutionServer.start(CommandExecutionServer.java:177), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+An error occurred
+java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+[com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226), com.google.gson.Gson.fromJson(Gson.java:927), com.google.gson.Gson.fromJson(Gson.java:892), com.google.gson.Gson.fromJson(Gson.java:841), com.google.gson.Gson.fromJson(Gson.java:813), server.CommandExecutionServer.getFoodByNDBNO(CommandExecutionServer.java:400), server.CommandExecutionServer.displayFoodReport(CommandExecutionServer.java:232), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:274), server.CommandExecutionServer.read(CommandExecutionServer.java:204), server.CommandExecutionServer.start(CommandExecutionServer.java:177), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food-report 01009
+
+result:------
+NAME:	Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+------
+INGREDIENTS:
+------
+------
+NUTRIENTS:
+------
+Energy	403kcal
+Protein	22.87g
+Total lipid (fat)	33.31g
+Carbohydrate, by difference	3.37g
+Fiber, total dietary	0.0g
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45082701&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45323420&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45343436&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=12345&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35193&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food-report 35193
+
+result:------
+NAME:	Agave, cooked (Southwest)
+------
+INGREDIENTS:
+------
+------
+NUTRIENTS:
+------
+Energy	135kcal
+Protein	0.99g
+Total lipid (fat)	0.29g
+Carbohydrate, by difference	32.00g
+Fiber, total dietary	10.6g
+
+END
+message:get-food-report 35193
+
+result:------
+NAME:	Agave, cooked (Southwest)
+------
+INGREDIENTS:
+------
+------
+NUTRIENTS:
+------
+Energy	135kcal
+Protein	0.99g
+Total lipid (fat)	0.29g
+Carbohydrate, by difference	32.00g
+Fiber, total dietary	10.6g
+
+END
+An error occurred
+Illegal character in query at index 46: https://api.nal.usda.gov/ndb//search?q=nutella
+&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece
+[java.base/java.net.URI.create(URI.java:883), server.CommandExecutionServer.sendRequest(CommandExecutionServer.java:357), server.CommandExecutionServer.getFoodListByName(CommandExecutionServer.java:382), server.CommandExecutionServer.displayFoodList(CommandExecutionServer.java:237), server.CommandExecutionServer.executeCommand(CommandExecutionServer.java:277), server.CommandExecutionServer.read(CommandExecutionServer.java:204), server.CommandExecutionServer.start(CommandExecutionServer.java:177), server.CommandExecutionServer.main(CommandExecutionServer.java:126)]
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food nutella
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+NDBNO:	45081187
+------
+MANUFACTURER:	none
+------
+NAME:	BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709
+------
+NDBNO:	45146122
+------
+MANUFACTURER:	none
+------
+NAME:	FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106
+------
+NDBNO:	45150576
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007
+------
+NDBNO:	45061538
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107
+------
+NDBNO:	45099743
+------
+MANUFACTURER:	Ferrero U.S.A., Incorporated
+------
+NAME:	BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609
+------
+NDBNO:	45179742
+------
+MANUFACTURER:	none
+
+END
+message:get-food-by-barcode --img=/home/bistra/Desktop/image.png
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+INGREDIENTS:
+------
+NUTELLA: SUGAR
+PALM OIL
+HAZELNUTS
+COCOA
+SKIM MILK
+WHEY (MILK)
+LECITHIN AS EMULSIFIER (SOY)
+VANILLIN: AN ARTIFICIAL FLAVOR,
+------
+NUTRIENTS:
+------
+Energy	519kcal
+Protein	7.69g
+Total lipid (fat)	26.92g
+Carbohydrate, by difference	65.38g
+Fiber, total dietary	3.8g
+
+END
+message:get-food-by-barcode --upc=009800800124
+
+result:------
+NAME:	NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124
+------
+INGREDIENTS:
+------
+NUTELLA: SUGAR
+PALM OIL
+HAZELNUTS
+COCOA
+SKIM MILK
+WHEY (MILK)
+LECITHIN AS EMULSIFIER (SOY)
+VANILLIN: AN ARTIFICIAL FLAVOR,
+------
+NUTRIENTS:
+------
+Energy	519kcal
+Protein	7.69g
+Total lipid (fat)	26.92g
+Carbohydrate, by difference	65.38g
+Fiber, total dietary	3.8g
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad+c&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45082701&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45323420&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45343436&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=11439&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=11414&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=09103&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=09104&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=09102&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=09106&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=09325&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food-without sauerkraut salad cilantro
+
+result:------
+NAME:	SAUERKRAUT SALAD, UPC: 858159002136
+------
+NDBNO:	45343436
+------
+MANUFACTURER:	
+------
+NAME:	DILL & GARLIC SAUERKRAUT SALAD, UPC: 858159002112
+------
+NDBNO:	45323420
+------
+MANUFACTURER:	
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+message:get-food sauerkraut salad
+
+result:------
+NAME:	RED BEET & CABBAGE SAUERKRAUT SALAD, UPC: 858159002143
+------
+NDBNO:	45082701
+------
+MANUFACTURER:	none
+------
+NAME:	DILL & GARLIC SAUERKRAUT SALAD, UPC: 858159002112
+------
+NDBNO:	45323420
+------
+MANUFACTURER:	none
+------
+NAME:	SAUERKRAUT SALAD, UPC: 858159002136
+------
+NDBNO:	45343436
+------
+MANUFACTURER:	none
+
+END
+message:get-food-report 45082701
+
+result:------
+NAME:	RED BEET & CABBAGE SAUERKRAUT SALAD, UPC: 858159002143
+------
+INGREDIENTS:
+------
+RED CABBAGE RED BEETS
+PEAR
+SEA SALT
+GINGER
+CILANTRO
+GARLIC,
+------
+NUTRIENTS:
+------
+Energy	33kcal
+Protein	0.00g
+Total lipid (fat)	0.00g
+Carbohydrate, by difference	6.67g
+Fiber, total dietary	3.3g
+
+END
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45082701&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45323420&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45343436&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=01009&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45081187&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45146122&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45150576&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45061538&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45099743&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=45179742&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=12345&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb/reports/?ndbno=35196&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=sauerkraut+salad&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
+Sending request.
+https://api.nal.usda.gov/ndb//search?q=nutella&api_key=7e4BU7gCHAFgoIFLRsACWZmMv6dWa16vOcXv3ece GET
